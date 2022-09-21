@@ -1,0 +1,40 @@
+{
+  "name": "express-api-template-template",
+  "version": "1.0.0",
+  "description": "A simple and improved api with Javascript & Express.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node ./src/app",
+    "dev": "nodemon ./src/app"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.2",
+    "express": "~4.16.1",
+    "morgan": "~1.9.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ahosall/express-api-template.git"
+  },
+  "keywords": [
+    "api",
+    "express",
+    "javascript",
+    "js",
+    "simple-api",
+    "simples",
+    "template",
+    "vscode"
+  ],
+  "author": "Ahosall (Feh's)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ahosall/express-api-template/issues"
+  },
+  "homepage": "https://github.com/Ahosall/express-api-template#readme"
+}

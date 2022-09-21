@@ -1,0 +1,7 @@
+# Dirs
+node_modules/
+
+# Files
+*.log
+.env
+*lock.json
