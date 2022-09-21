@@ -1,14 +1,12 @@
-<div id="top">
-  <center>
-    <h1>Express API</h1>
-    <p>A simple and improved api with <a href="https://expressjs.com">ExpressJS</a>.</p>
-  </center>
+<div id="top" align="center">
+  <h1>Express API</h1>
+  <p>A simple and improved api with <a href="https://expressjs.com">ExpressJS</a>.</p>
 </div>
 
-<center>
+<div align="center">
   <img alt="Language" src="https://img.shields.io/badge/Language-javascript-yellow.svg?style=for-the-badge"/>
   <img alt="PyVersion" src="https://img.shields.io/badge/Node.JS_version-16.x-green.svg?style=for-the-badge&logo=node.JS"/>
-</center>
+</div>
 
 <div id="glossary">
   <h2>📚 | Glossary</h2>
@@ -133,8 +131,8 @@ This project is licensed under the <a href="./license">MIT License</a>!
   All forms of contact are on my profile!
 </div>
 <br>
-<center>
+<div align="center">
   <a href="#top">
     <img alt="Language" src="https://img.shields.io/badge/Back_to_the_TOP-blue.svg?style=for-the-badge"/>
   </a>
-</center>
+</div>
